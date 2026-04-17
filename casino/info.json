@@ -1,0 +1,15 @@
+{
+    "author": ["Redjumpman (original concept)", "hbicofbiology (recreation)"],
+    "install_msg": "Casino has been installed! Use `[p]casino info` to see available games and settings.\nOriginal concept by Redjumpman.",
+    "name": "Casino",
+    "disabled": false,
+    "short": "A casino cog with multiple games using Red's economy.",
+    "description": "Play casino games like Blackjack, Coin Flip, Cups, Dice, Hi-Lo, War, Craps, All-In, and Double or Nothing. Features configurable settings, cooldowns, stats tracking, and Discord embed outputs. Inspired by Redjumpman's original Casino cog.",
+    "tags": ["games", "economy", "fun", "casino", "gambling"],
+    "requirements": [],
+    "min_bot_version": "3.5.0",
+    "max_bot_version": "0.0.0",
+    "hidden": false,
+    "type": "COG",
+    "end_user_data_statement": "This cog stores user IDs, game statistics (wins, losses, total wagered/won), and cooldown timestamps."
+}
