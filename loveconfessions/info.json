@@ -1,0 +1,10 @@
+{
+  "name": "LoveConfessions",
+  "author": ["hbicofbiology"],
+  "description": "Anonymous and public love confessions.",
+  "install_msg": "LoveConfessions loaded 💌",
+  "short": "Confess your feelings",
+  "requirements": [],
+  "tags": ["social", "fun"],
+  "min_bot_version": "3.5.0"
+}
