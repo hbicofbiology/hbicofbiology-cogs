@@ -1,0 +1,14 @@
+{
+  "author": ["hbicofbiology"],
+  "name": "ChainReaction",
+  "short": "Turn-based word game with join button, countdown turns, lives, and economy winner reward.",
+  "description": "Players join via a button during a 60-second lobby. The game then runs turn-by-turn in join order. Each turn has a 10-second countdown (embed updates every second). Players may retry within the 10 seconds, but only real English words that satisfy the rule are accepted. Players start with 3 lives; failing to answer in time costs 1 life. Last player standing wins and can be rewarded via Red's Bank (default +10000).",
+  "install_msg": "✅ ChainReaction loaded! Use `[p]chain start` in a channel to open a 60s Join lobby. Minimum 2 players. Optional economy payout: `[p]chain setreward 10000` and `[p]chain economy true`.",
+  "requirements": ["wordfreq"],
+  "tags": ["game", "word", "turn-based", "buttons", "lives", "economy"],
+  "min_bot_version": "3.5.0",
+  "hidden": false,
+  "disabled": false,
+  "type": "COG",
+  "end_user_data_statement": "This cog stores user IDs for active games (joined players) and per-user stats (wins, games played, eliminations)."
+}
