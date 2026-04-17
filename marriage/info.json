@@ -1,0 +1,10 @@
+{
+  "name": "Marriage",
+  "author": ["hbicofbiology"],
+  "description": "Marriage, contentment, gifts, actions, and relationship tracking.",
+  "install_msg": "Marriage loaded 💍",
+  "short": "Marriage system",
+  "requirements": [],
+  "tags": ["social", "fun", "economy"],
+  "min_bot_version": "3.5.0"
+}
