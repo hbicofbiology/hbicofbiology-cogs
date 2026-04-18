@@ -37,6 +37,7 @@ Then install any cog:
 | [RaiseCat](raisecat/README.md) | Raise a shared server cat together. Feed, play, groom, vet, and train it through four pixel art life stages — from kitten to crowned elder. |
 | [Marriage](marriage/README.md) | Marriage system with economy costs, contentment tracking, gifts, consent-based actions, and profile pages showing spouses, exes, and relationship stats. |
 | [LoveConfessions](loveconfessions/README.md) | Send anonymous or public confessions to other members via DM. Anonymous mode uses a Discord modal so the sender is never revealed. |
+| [Confessions](confessions/README.md) | Server-wide anonymous confession system. Members submit via `/confess` or a persistent button panel — posted as numbered embeds to a configured channel. Nothing is stored. |
 
 ### 🎴 Fun & Flavour
 
