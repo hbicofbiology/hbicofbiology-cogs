@@ -1,0 +1,13 @@
+{
+    "name": "MoodMusic",
+    "short": "Curated mood-based Spotify music recommendations.",
+    "description": "Admins build per-mood Spotify song libraries. Users request a random track for any mood and receive a rich Discord embed showing album art, track title, artist, and a direct Spotify link.",
+    "install_msg": "Thanks for installing MoodMusic!\n\nTo enable rich embeds (album art, track info), set your Spotify API credentials:\n`[p]moodmusic setcreds <client_id> <client_secret>`\n\nGet credentials at: https://developer.spotify.com/dashboard",
+    "author": ["Bio"],
+    "version": "1.0.0",
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG",
+    "requirements": ["aiohttp"]
+}
