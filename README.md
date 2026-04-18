@@ -1,6 +1,6 @@
 # 🧬 hbicofbiology-cogs
 
-Custom cogs for [Red-DiscordBot V3](https://github.com/Cog-Creators/Red-DiscordBot). A collection of games, social systems, utilities, and community tools built for phagebot.
+Custom cogs for [Red-DiscordBot V3.5](https://github.com/Cog-Creators/Red-DiscordBot). A collection of games, social systems, utilities, and community tools built for phagebot.
 
 ---
 
