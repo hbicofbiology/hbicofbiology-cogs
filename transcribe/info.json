@@ -1,0 +1,14 @@
+{
+    "author": ["Bio"],
+    "install_msg": "Transcribe loaded! Set your OpenAI API key with `[p]transcribeset apikey <key>`, then enable in your server with `[p]transcribeset enable`.",
+    "name": "Transcribe",
+    "disabled": false,
+    "short": "Auto-transcribe Discord voice messages using OpenAI Whisper.",
+    "description": "Listens for Discord voice messages and automatically transcribes them using the OpenAI Whisper API. Replies to the original message with a clean embed showing the transcription. Supports per-server enable/disable and optional channel restrictions.",
+    "tags": ["utility", "voice", "transcription", "accessibility", "openai", "whisper"],
+    "requirements": ["aiohttp"],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "type": "COG",
+    "end_user_data_statement": "This cog does not store any user data. Voice message audio is sent directly to the OpenAI Whisper API for transcription and is not retained."
+}
