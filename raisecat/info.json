@@ -1,0 +1,13 @@
+{
+    "author": ["hbicofbiology"],
+    "install_msg": "Thanks for installing RaiseCat! Use `[p]cat adopt` to adopt your server's cat!",
+    "name": "RaiseCat",
+    "disabled": false,
+    "short": "Raise a shared server cat together!",
+    "description": "A collaborative cat-raising cog where the entire server works together to raise a cat from kitten to elder. Feed, play, groom, heal, and teach tricks to your server's shared cat!",
+    "tags": ["fun", "game", "pet", "cat", "virtual pet"],
+    "requirements": [],
+    "end_user_data_statement": "This cog stores user IDs and interaction counts for the leaderboard. No personal data beyond Discord user IDs is stored.",
+    "min_bot_version": "3.5.0",
+    "min_python_version": [3, 8, 0]
+}
