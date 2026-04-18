@@ -1,0 +1,15 @@
+{
+    "author": ["Redjumpman (original concept)", "hbicofbiology (swamp creature recreation)"],
+    "install_msg": "Swamp Race has been installed! Use `[p]race start` to begin a race.\nOriginal Race concept by Redjumpman. Swamp creature twist by Bbygrl.",
+    "name": "Race",
+    "disabled": false,
+    "short": "Race swamp creatures against your friends!",
+    "description": "A multiplayer swamp creature racing game for Discord. Players join a lobby, then watch as their swamp creatures sprint through the muck to the finish line. Features betting, prize pooling, stats tracking, and animated GIF visuals. Inspired by Redjumpman's original Race cog.",
+    "tags": ["games", "economy", "fun", "race", "swamp"],
+    "requirements": [],
+    "min_bot_version": "3.5.0",
+    "max_bot_version": "0.0.0",
+    "hidden": false,
+    "type": "COG",
+    "end_user_data_statement": "This cog stores user IDs, race placement stats (1st/2nd/3rd wins and losses), and total games played per server."
+}
