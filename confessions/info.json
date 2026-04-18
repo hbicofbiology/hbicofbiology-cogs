@@ -1,0 +1,16 @@
+{
+    "name": "Confessions",
+    "short": "Anonymous confession system with modal submission and a persistent button panel.",
+    "description": "Lets server members submit anonymous confessions via a Discord modal, triggered by a slash command or a persistent button panel. Confessions are posted as numbered embeds to a configured channel. Admins can enable/disable the system, set the output channel, post a panel anywhere, and reset the counter.",
+    "end_user_data_statement": "This cog does not collect, store, or log any end user data. Confessions are posted anonymously and no user identifiers are retained.",
+    "author": ["hbicofbiology"],
+    "install_msg": "Thanks for installing Confessions!\n\nQuick setup:\n1. `[p]confessions setchannel #your-channel` — set where confessions are posted.\n2. `[p]confessions postpanel #another-channel` — drop a button panel wherever you like.\n3. Done! Members can click the button or use `/confess`.\n\nRun `[p]confessions` to see all admin commands.",
+    "required_cogs": {},
+    "requirements": [],
+    "tags": ["confession", "anonymous", "modal", "fun", "community"],
+    "min_bot_version": "3.5.0",
+    "min_python_version": [3, 8, 0],
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
