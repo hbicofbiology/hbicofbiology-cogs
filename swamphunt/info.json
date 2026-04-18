@@ -1,0 +1,13 @@
+{
+  "name": "SwampHunt",
+  "author": ["hbicofbiology"],
+  "short": "Passive swamp creature encounters",
+  "description": "Passive hunting-style swamp creature encounters using Red's bank economy.",
+  "install_msg": "The swamp wakes up. Something gross is moving in the reeds.",
+  "requirements": [],
+  "tags": ["economy", "game", "fun", "hunting"],
+  "min_bot_version": "3.5.0",
+  "hidden": false,
+  "disabled": false,
+  "type": "COG"
+}
