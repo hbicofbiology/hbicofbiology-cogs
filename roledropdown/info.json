@@ -1,0 +1,14 @@
+{
+    "author": ["hbicofbiology"],
+    "install_msg": "RoleDropdown loaded! Use `[p]roledropdown create #channel` to post your first role selector.",
+    "name": "RoleDropdown",
+    "disabled": false,
+    "short": "Create persistent role selection dropdowns.",
+    "description": "Post Discord select-menu dropdowns that let members pick and remove their own roles. Dropdowns persist across bot restarts. Supports up to 25 roles per dropdown, optional labels, descriptions, and emojis per role.",
+    "tags": ["roles", "utility", "moderation", "ui", "buttons"],
+    "requirements": [],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "type": "COG",
+    "end_user_data_statement": "This cog does not store any user data. Role selections are applied directly and not retained."
+}
